@@ -1,0 +1,7 @@
+body { font-family: sans-serif; display: flex; justify-content: center; margin-top: 40px; }
+.app { width: 400px; }
+form, .filters { display: flex; gap: 8px; margin-bottom: 12px; }
+form input { flex: 1; }
+ul { list-style: none; padding: 0; }
+li { display: flex; align-items: center; gap: 8px; padding: 6px 0; }
+li span { flex: 1; }
